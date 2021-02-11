@@ -1,5 +1,7 @@
 {
   "name": "meuStok",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
